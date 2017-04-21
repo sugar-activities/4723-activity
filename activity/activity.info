@@ -1,0 +1,10 @@
+[Activity]
+name = Install Sugar Web Services
+bundle_id = org.sugarlabs.webservices
+exec = sugar-activity webinstall.Install
+icon = activity-icon
+activity_version = 1
+show_launcher = yes
+single_instance = yes
+license = GPLv2+
+summary = Simple activity for instal Sugar Web Services

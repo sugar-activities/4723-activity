@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 10:41-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Install Sugar Web Services"
+msgstr ""
+
+#: webinstall.py:154 webinstall.py:160 webinstall.py:318 webinstall.py:396
+msgid "Error"
+msgstr ""
+
+#: webinstall.py:155 webinstall.py:161
+msgid "Error extracting the extension."
+msgstr ""
+
+#: webinstall.py:157
+msgid "Sucess"
+msgstr ""
+
+#: webinstall.py:158
+msgid "The extension has been installed."
+msgstr ""
+
+#: webinstall.py:177
+msgid "Load from Journal"
+msgstr ""
+
+#: webinstall.py:179
+msgid "Download from internet"
+msgstr ""
+
+#: webinstall.py:181
+msgid "Remove installed extensions"
+msgstr ""
+
+#: webinstall.py:295
+msgid "¿Remove extension?"
+msgstr ""
+
+#: webinstall.py:296
+msgid "Sure?"
+msgstr ""
+
+#: webinstall.py:309
+msgid "Removed"
+msgstr ""
+
+#: webinstall.py:310
+msgid "Extension removed. Please restart sugar for see efects"
+msgstr ""
+
+#: webinstall.py:319
+msgid "Error removing extension."
+msgstr ""
+
+#: webinstall.py:417
+msgid "Downloaded"
+msgstr ""
+
+#: webinstall.py:418
+msgid "The extension has been downloaded and installed."
+msgstr ""
